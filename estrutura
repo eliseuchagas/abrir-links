@@ -1,6 +1,6 @@
 @echo off
-start microsoft-edge:"https://www.exemplo1.com"
-timeout /t 5 /nobreak
-start microsoft-edge:"https://www.exemplo2.com"
-timeout /t 5 /nobreak
-start microsoft-edge:"https://www.exemplo3.com"
+start microsoft-edge:"https://www.notion.so/"
+timeout /t 3 /nobreak
+start microsoft-edge:"https://chat.openai.com/"
+timeout /t 3 /nobreak
+start microsoft-edge:"https://www.youtube.com/"
