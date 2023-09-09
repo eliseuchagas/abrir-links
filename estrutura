@@ -1,0 +1,6 @@
+@echo off
+start microsoft-edge:"https://www.exemplo1.com"
+timeout /t 5 /nobreak
+start microsoft-edge:"https://www.exemplo2.com"
+timeout /t 5 /nobreak
+start microsoft-edge:"https://www.exemplo3.com"
